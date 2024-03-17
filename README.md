@@ -1,5 +1,6 @@
 
 # Email/SMS Spam Classifier
+[website](https://spam-detective.streamlit.app/)
 This project aims to classify email or SMS messages into two categories: spam or not spam (ham). It utilizes natural language processing techniques along with machine learning to achieve this classification.
 
 
@@ -9,15 +10,15 @@ This project aims to classify email or SMS messages into two categories: spam or
 ## Installation
 To run this project, ensure you have Python installed on your system. Then, follow these steps:
 
-    1. Clone this repository to your local machine:
+1. Clone this repository to your local machine:
     
         git clone https://github.com/Rudra-03/Email-SMS-Spam-Classifier.git
 
-    2. Navigate to the project directory:
+2. Navigate to the project directory:
 
         cd Email-SMS-Spam-Classifier
 
-    3. Install the required dependencies using pip:
+3. Install the required dependencies using pip:
 
         pip install -r requirements.txt
 
